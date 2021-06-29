@@ -1,0 +1,15 @@
+.lista-categorias {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.lista-categorias_lista {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.lista-categorias_item {
+    padding: 15px;
+}
